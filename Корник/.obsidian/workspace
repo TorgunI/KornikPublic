@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "e5678bc8eca3b59d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b92ac12aaf2097a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "6. Бой.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b78facb324e85c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b82ad695fb8ad38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b511263bc115ef22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f3404d801ea2f9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3a66bf1d02b856d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f24027b5050edbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89c3e8e2db6a8d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Бой.md"
+              }
+            }
+          },
+          {
+            "id": "e4da82aa32c98487",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b92ac12aaf2097a5",
+  "lastOpenFiles": [
+    "6. Бой.md",
+    "4. Передвижение.md",
+    "2. Характеристики.md",
+    "0. Предисловие.md",
+    "0. Введение.md",
+    "15. Смерть персонажа.md",
+    "14. Дебаффы.md",
+    "Excalidraw/Drawing 2022-01-24 19.34.52.excalidraw.md",
+    "5. Взаимодействие и манипуляции.md",
+    "4. Восстановление сил, жажда, голод, сон и отдых.md"
+  ]
+}
